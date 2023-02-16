@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tyty4646
+- 👋 Hi, I’m Tyler!
 - 👀 I love snowboarding, racing, cars, video games, and anthropomorphism!
 - 🌱 I’m currently studying Computer Science at Penn State University
-- 💞️ I’m looking to collaborate on COMPSCI class projects :)
+- 💞️ I’m looking to collaborate on CS projects :)
 - 📫 How to reach me: 
 Instagram @tylerlindsay46
 Discord tyty4646#3166
