@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Tyler!
-- 👀 I love snowboarding, racing, cars, video games, and anthropomorphism!
-- 🌱 I’m currently studying Computer Science at Penn State University
-- 💞️ I’m looking to collaborate on CS projects :)
-- 📫 How to reach me: 
-Instagram @tylerlindsay46
-Discord tyty4646#3166
+Hi, I'm Tyler Lindsay!
+I love snowboarding, racing, cars, video games, and anthropomorphism!
+I’m currently a Senior studying Computer Science at Penn State University
+
+You can reach me on Discord @tylerlindsay
 
 <!---
 tyty4646/tyty4646 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
