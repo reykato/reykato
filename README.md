@@ -1,5 +1,5 @@
 Hi, I'm Tyler Lindsay!
-<br>I love snowboarding, racing, cars, video games, and anthropomorphism!
+<br>I love snowboarding, racing, cars, video games, and electronics!
 <br>I’m currently a Senior studying Computer Science at Penn State University
 
 <br>You can reach me on Discord @tylerlindsay
